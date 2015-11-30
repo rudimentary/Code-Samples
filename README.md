@@ -1,4 +1,4 @@
-# Job-Code-Samples
+# Code-Samples
 
 The files in this repository are not necessarily related to each other and are also not necessarily compilable. They are simply snap-shots of code that were used in one project or another at some point.
 
