@@ -15,3 +15,7 @@ was a TI Stellaris LM4F120H5QR (now the TI Tiva C TM4C123GH6PM) M4 ARM microcont
 motor.c & motor.h interfaced two ST L6470 dSPIN stepper motor drivers to the target.
 magnet.c & magnet.h interfaced a FET that controlled an electromagnet to the target.
 main.c interfaced a TI CC1121 RF tranceiver to the target.
+
+# License Information
+
+This code is not to be used or reproduced by another individual/entity without the express permission of the original author(s). This notice must be included with any code that is reproduced.
