@@ -3,7 +3,7 @@
  *
  * Implementation file for operation of L6470 motor controller on TI Stellaris LM4F120H5QR
  *  Created on: Apr 17, 2013
- *      Author: Eric ***REMOVED***, Mateus ***REMOVED***
+ *      Author: Eric B, Mateus D
  *
  *      Using dSPIN example code - 12/12/2011- Mike Hord, SparkFun Electronics
  */
