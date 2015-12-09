@@ -3,7 +3,7 @@
  *
  * Header file for operation of GPIO-controlled electromagnet on TI Stellaris LM4F120H5QR
  *  Created on: Apr 23, 2013
- *      Author: Mateus ***REMOVED***
+ *      Author: Mateus D
  *
  */
 
