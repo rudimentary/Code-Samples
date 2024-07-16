@@ -2,7 +2,7 @@
 
 The files in this repository are not necessarily related to each other and are also not necessarily compilable. They are simply snap-shots of code that were used in one project or another at some point.
 
-All code was written prior to or in lieu of official/supported releases of example code from part manufacturers for devices that were in some cases still pre-production/experimental.
+All code was written prior to or in lieu of official/supported releases of example code from part manufacturers for devices that were in some cases still pre-production/experimental. In some cases, when finally released, official examples looked suspiciously famaliar to code that I had reached out to Helpdesks about.
 
 The target for:
   - motor.c
